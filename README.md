@@ -6,7 +6,7 @@ Here's a little about me.
 
 ![Kiran's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranReddy0808&layout=compact&hide_border=true)
 
-Feel free to connect if you you play any of below :D
+Feel free to connect if you play any of the below :D
 
 [![Kiran's Steam Account](https://img.shields.io/badge/Steam-MasterSoda-red)](https://steamcommunity.com/profiles/76561198843410510/)
 
