@@ -8,7 +8,7 @@ Feel free to connect and say hi!
 
 [![Kiran's Steam Account](https://img.shields.io/badge/Steam-MasterSoda-red)](https://steamcommunity.com/profiles/76561198843410510/)
 [![Kiran's Instagram Account](https://img.shields.io/badge/Instagram-psaikiranreddy-red)](https://www.instagram.com/pskiranreddy/)
-[![Kiran's LinkedIn Account](https://img.shields.io/badge/LinkedIn-Saikiran Reddy Poreddy-blue)](https://www.linkedin.com/in/psaikiranreddy/)
+[![Kiran's LinkedIn Account](https://img.shields.io/badge/LinkedIn-Saikiran%20Reddy%20Poreddy-blue)](https://www.linkedin.com/in/psaikiranreddy/)
 
 Here's a cat picture for your troubles.
 
