@@ -2,16 +2,13 @@ Hello There!
 
 Here are my github stats.
 
-
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiranReddy0808&layout=compact&hide_borer=true)
-
-![Kiran's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranReddy0808&layout=compact&hide_border=true)
+![Kiran's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiranReddy0808&theme=radical)
 
 Feel free to connect and say hi!
 
 [![Kiran's Steam Account](https://img.shields.io/badge/Steam-MasterSoda-red)](https://steamcommunity.com/profiles/76561198843410510/)
 [![Kiran's Instagram Account](https://img.shields.io/badge/Instagram-psaikiranreddy-red)](https://www.instagram.com/pskiranreddy/)
-
+[![Kiran's LinkedIn Account](https://img.shields.io/badge/LinkedIn-Saikiran Reddy Poreddy-blue)](https://www.linkedin.com/in/psaikiranreddy/)
 
 Here's a cat picture for your troubles.
 
