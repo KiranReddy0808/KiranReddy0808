@@ -10,7 +10,7 @@ Feel free to connect and say hi!
 [![Kiran's Instagram Account](https://img.shields.io/badge/Instagram-psaikiranreddy-red)](https://www.instagram.com/pskiranreddy/)
 [![Kiran's LinkedIn Account](https://img.shields.io/badge/LinkedIn-Saikiran%20Reddy%20Poreddy-blue)](https://www.linkedin.com/in/psaikiranreddy/)
 
-Wondering what moon it is today?
+Wondering what moon phase is it today?
 
 ![Moon](https://walrus-app-lrhok.ondigitalocean.app/moon-phase/svg)
 
