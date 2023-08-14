@@ -14,7 +14,7 @@ Feel free to connect and say hi!
 
 Wondering what moon phase is it today?
 
-![Moon](https://walrus-app-lrhok.ondigitalocean.app/moon-phase/svg)
+![Moon](https://walrus-app-lrhok.ondigitalocean.app/moon-phase)
 
 
 Here's a cat picture for your troubles.
