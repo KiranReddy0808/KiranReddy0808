@@ -12,12 +12,7 @@ Feel free to connect and say hi!
 [![Kiran's Twitch Account](https://img.shields.io/twitch/status/thisisthewaykid
 )](https://www.twitch.tv/thisisthewaykid)
 
-Wondering what moon phase is it today?
-
-![Moon](https://walrus-app-lrhok.ondigitalocean.app/moon-phase)
-
-
 Here's a cat picture for your troubles.
 
 
-![Random Cat](https://walrus-app-lrhok.ondigitalocean.app/catto)
+![Random Cat](https://pegasus-9yoae.ondigitalocean.app/catto)
