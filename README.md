@@ -11,8 +11,3 @@ Feel free to connect and say hi!
 [![Kiran's LinkedIn Account](https://img.shields.io/badge/LinkedIn-Saikiran%20Reddy%20Poreddy-blue)](https://www.linkedin.com/in/psaikiranreddy/)
 [![Kiran's Twitch Account](https://img.shields.io/twitch/status/thisisthewaykid
 )](https://www.twitch.tv/thisisthewaykid)
-
-Here's a cat picture for your troubles.
-
-
-![Random Cat](https://pegasus-9yoae.ondigitalocean.app/catto)
