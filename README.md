@@ -10,3 +10,4 @@
 [![Kiran's LinkedIn Account](https://img.shields.io/badge/LinkedIn-Saikiran%20Reddy%20Poreddy-blue)](https://www.linkedin.com/in/psaikiranreddy/)
 [![Kiran's Twitch Account](https://img.shields.io/twitch/status/thisisthewaykid
 )](https://www.twitch.tv/thisisthewaykid)
+[![Kiran's Discord Account](https://img.shields.io/badge/Discord-mastersoda-blue)](https://discord.com/users/415999983465136130)
