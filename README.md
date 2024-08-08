@@ -1,10 +1,7 @@
-Hello There!
+![Hello+There!+I'm+Sai.%F0%9F%90%A7](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72273&width=435&lines=Hello+There!+I'm+Sai.%F0%9F%90%A7;Here+are+my+github+stats.;Feel+free+to+connect+and+say+hi!)
 
-Here are my github stats.
-
-![Kiran's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiranReddy0808&theme=radical)
-
-Feel free to connect and say hi!
+![Sai's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiranReddy0808&theme=radical)
+![Sai's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiranReddy0808&theme=city_lights)
 
 [![Kiran's Steam Account](https://img.shields.io/badge/Steam-MasterSoda-red)](https://steamcommunity.com/profiles/76561198843410510/)
 [![Kiran's Instagram Account](https://img.shields.io/badge/Instagram-psaikiranreddy-red)](https://www.instagram.com/pskiranreddy/)
